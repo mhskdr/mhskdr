@@ -1,6 +1,16 @@
 # 👋 Hey there, I'm Md. Mobarak!
+### Full Stack Web Developer | UI Enthusiast | Creative Technologist
 
-I'm a frontend-focused full-stack developer and creative technologist passionate about crafting **beautiful**, **interactive**, and **accessible** web experiences. I treat **design as code** and **code as art**.
+## 🧑‍💻 About Me
+
+I’m a **Full Stack Web Developer** with a strong focus on frontend development and user experience. 
+I treat **design as code** and **code as art**
+
+### 🔍 What I'm Currently Working On:
+- 🚀 Sharpening the skill of **Professional React project with proper auth**
+- 🌐 Building a **Hiring Website** using Next.js
+- 📱 Developing a **responsive component library** for personal projects
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mhskdr&label=Profile%20views&color=0e75b6&style=flat" alt="mhskdr" />
@@ -13,6 +23,9 @@ I'm a frontend-focused full-stack developer and creative technologist passionate
 <p align="left">
   <a href="https://fb.com/mhskdr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+  </a>
+  <a href="mailto:mobarakhosen096@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
   </a>
 </p>
 
@@ -86,7 +99,14 @@ A modern, frontend-first booking app featuring:
 
 - Component-based UI (React + DaisyUI + Swiper)
 - Smooth scroll and animation effects (AOS, Framer Motion)
-- Real-time data representation (Recharts)
+- Fully customised and Live
+- 
+🔗 [`Room Rent Website`](https://roomie-connect.netlify.app/)  
+A modern, frontend-first booking app featuring:
+
+- Component-based UI (React + DaisyUI + Swiper)
+- Smooth scroll and animation effects (AOS, Framer Motion)
+- Real-time Updating, Creating, Fully working Site
 
 <!-- 
 🔗 [`Design Showcase`](https://github.com/your-designs-link)  
