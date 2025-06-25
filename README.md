@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co/3mncvkTm/reface-copy.png" alt="Banner" />
 </p>
-<h1 align="center">Hi 👋, I'm Md. Mobarak</h1>
+<h1 align="center">Hi 👋, I'm Md Mobarak Hosen</h1>
 <h3 align="center">Full Stack (FrontEnd Focused) Web Developer | UI Enthusiast | Creative Technologist</h3>
 ## 🧑‍💻 About Me
 
