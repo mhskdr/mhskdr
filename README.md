@@ -82,7 +82,7 @@ I treat **design as code** and **code as art**
 - **React Ecosystem**: React, React Router, React Awesome Components  
 - **Styling & UI**: Tailwind CSS, DaisyUI, SVG, CSS  
 - **Animation**: AOS (Animate on Scroll), Framer Motion, Swiper  
-- **Data Viz**: Recharts  
+- **Data Visual**: Recharts  
 - **Build Tools**: Vite
 
 ---
@@ -103,7 +103,6 @@ A modern, frontend-first booking app featuring:
 - Component-based UI (React + DaisyUI + Swiper)
 - Smooth scroll and animation effects (AOS, Framer Motion)
 - Fully customised and Live
-- 
 🔗 [`Room Rent Website`](https://roomie-connect.netlify.app/)  
 A modern, frontend-first booking app featuring:
 
