@@ -102,9 +102,17 @@ I geek out over **hover effects**, **animation timing**, and components users *w
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhskdr&show_icons=true&locale=en" alt="mhskdr GitHub stats" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mhskdr&show_icons=true&locale=en" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhskdr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhskdr&" alt="mhskdr" />
+
+</div>
 
 ---
 
