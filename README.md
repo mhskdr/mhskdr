@@ -104,7 +104,7 @@ A modern, frontend-first booking app featuring:
 - Smooth scroll and animation effects (AOS, Framer Motion)
 - Fully customised and Live
   
-🔗 [`Room Rent Website`](https://roomie-connect.netlify.app/)
+🔗 [`Room Rent Website`](https://roomie-connect.netlify.app/)  
 A modern, frontend-first booking app featuring:
 
 - Component-based UI (React + DaisyUI + Swiper)
