@@ -2,12 +2,11 @@
 <p align="center">
   <img src="https://i.ibb.co/3mncvkTm/reface-copy.png" alt="Banner" />
 </p>
-# 👋 Hey there, I'm Md. Mobarak!
-### Full Stack Web Developer | UI Enthusiast | Creative Technologist
-
+<h1 align="center">Hi 👋, I'm Md. Mobarak</h1>
+<h3 align="center">Full Stack (FrontEnd Focused) Web Developer | UI Enthusiast | Creative Technologist</h3>
 ## 🧑‍💻 About Me
 
-I’m a **Full Stack Web Developer** with a strong focus on frontend development and user experience. 
+I’m a **Full Stack (FrontEnd Focused) Web Developer** with a strong focus on frontend development and user experience. 
 I treat **design as code** and **code as art**
 
 ### 🔍 What I'm Currently Working On:
