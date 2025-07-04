@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/4n7YQVYt/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Md Mobarak Hosen</h1>
-<h3 align="center">Full Stack (FrontEnd Focused) Web Developer | UI Enthusiast | Creative Technologist</h3>
+<h3 align="center">Mern Stack (FrontEnd Focused) Web Developer | UI Enthusiast | Creative Technologist</h3>
 ## 🧑‍💻 About Me
 
 I’m a **Mern Stack (FrontEnd Focused) Web Developer** with a strong focus on frontend development and user experience. 
