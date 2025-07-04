@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/3mncvkTm/reface-copy.png" alt="Banner" />
+  <img src="[https://i.ibb.co/4n7YQVYt/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Md Mobarak Hosen</h1>
 <h3 align="center">Full Stack (FrontEnd Focused) Web Developer | UI Enthusiast | Creative Technologist</h3>
