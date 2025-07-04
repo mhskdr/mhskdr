@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack (FrontEnd Focused) Web Developer | UI Enthusiast | Creative Technologist</h3>
 ## 🧑‍💻 About Me
 
-I’m a **Full Stack (FrontEnd Focused) Web Developer** with a strong focus on frontend development and user experience. 
+I’m a **Mern Stack (FrontEnd Focused) Web Developer** with a strong focus on frontend development and user experience. 
 I treat **design as code** and **code as art**
 
 ### 🔍 What I'm Currently Working On:
