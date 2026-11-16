@@ -4,10 +4,10 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BFBEBB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+MD+Mobarak+Hosen!;MERN+Stack+Developer+(Frontend-Focused);Turning+Dreams+into+Dynamic+Websites!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BFBEBB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+MD+Mobarak+Hosen!;MERN+Stack+Developer+(Frontend-Focused);Aspiring+Full-Stack+%26+AI+Engineer;Turning+Dreams+into+Dynamic+Websites!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💼 MERN Stack Developer &nbsp;|&nbsp; Frontend-Focused Web Developer</h3>
+<h3 align="center">💼 Full-Stack Developer &nbsp;|&nbsp; Aspiring AI Engineer</h3>
 
 <p align="center">
   📍 Bangladesh 🇧🇩 &nbsp;•&nbsp; 📧 <a href="mailto:mobarakhosen096@gmail.com">mobarakhosen096@gmail.com</a>
@@ -16,16 +16,17 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a **MERN Stack (Frontend-Focused) Web Developer** who loves building fast, responsive, and user-friendly websites.
+I'm a **Full-Stack Developer** and an **aspiring AI Engineer** who builds fast, responsive, and user-friendly web applications.
 I treat **design as code** and **code as art**, blending technical precision with creative design to deliver engaging digital experiences.
+I'm currently expanding into **TypeScript, Next.js, Nest.js, PostgreSQL, Docker, AWS and AI engineering (LLM, RAG, LangChain)** to build scalable, production-ready SaaS products.
 
 ---
 
 ## 🔍 What I'm Currently Working On
-- 🚀 Sharpening my skills in **professional React projects with authentication**
+- 🚀 Building **professional React projects with authentication**
 - 🌐 Building a **hiring website** using **Next.js**
 - 📱 Developing a **responsive component library** for personal and client projects
-- 📚 Exploring **Next.js** and modern full-stack patterns
+- 📚 Learning **TypeScript, Nest.js, PostgreSQL, Docker and AI Engineering** (LLM, RAG, LangChain)
 
 ---
 
@@ -33,32 +34,68 @@ I treat **design as code** and **code as art**, blending technical precision wit
 
 ### 🎨 Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="45" height="45" />
-  <img src="https://daisyui.com/favicon-512.png" alt="DaisyUI" title="DaisyUI" width="45" height="45" />
-  <img src="https://swiperjs.com/images/swiper-logo.svg" alt="Swiper" title="Swiper" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/8A8A8A" alt="Next.js" title="Next.js" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" alt="DaisyUI" title="DaisyUI" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/swiper/6332F6" alt="Swiper" title="Swiper" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="45" height="45" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" title="Express.js" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/express/8A8A8A" alt="Express.js" title="Express.js" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="Nest.js" title="Nest.js" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45" />
 </p>
 
-### 🧰 Tools & Deployment
+### 🗄️ Database
 <p>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" title="Git" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" title="Vercel" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" title="Netlify" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="45" height="45" />
+</p>
+
+### 🤖 AI Engineering
+<p>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/openai/8A8A8A" alt="LLMs" title="LLMs" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/pinecone/8A8A8A" alt="Vector Database" title="Vector Database" width="45" height="45" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LLM-6E56CF?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-6E56CF?style=flat-square" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-6E56CF?style=flat-square" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-6E56CF?style=flat-square" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/AI%20Guardrails-6E56CF?style=flat-square" alt="AI Guardrails" />
+</p>
+
+### 🚀 DevOps & Deployment
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" title="AWS" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux / VPS" title="Linux / VPS" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/vercel/8A8A8A" alt="Vercel" title="Vercel" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" width="45" height="45" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/github/8A8A8A" alt="GitHub" title="GitHub" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="45" height="45" />
 </p>
 
 ---
@@ -74,17 +111,27 @@ I treat **design as code** and **code as art**, blending technical precision wit
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mhskdr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhskdr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/mhskdr/mhskdr/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/mhskdr/mhskdr/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="49%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhskdr/mhskdr/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
+  <img src="https://raw.githubusercontent.com/mhskdr/mhskdr/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mhskdr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhskdr&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhskdr/mhskdr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhskdr/mhskdr/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mhskdr/mhskdr/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
