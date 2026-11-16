@@ -10,7 +10,7 @@
 <h3 align="center">💼 Full-Stack Developer &nbsp;|&nbsp; Aspiring AI Engineer</h3>
 
 <p align="center">
-  📍 Bangladesh 🇧🇩 &nbsp;•&nbsp; 📧 <a href="mailto:mobarakhosen096@gmail.com">mobarakhosen096@gmail.com</a>
+  📍 Bangladesh 🇧🇩 &nbsp;•&nbsp; <a href="mailto:mobarakhosen096@gmail.com">mobarakhosen096@gmail.com</a>
 </p>
 
 ---
