@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BFBEBB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+MD+Mobarak+Hosen!;MERN+Stack+Developer+(Frontend-Focused);Aspiring+Full-Stack+%26+AI+Engineer;Turning+Dreams+into+Dynamic+Websites!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BFBEBB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+MD+Mobarak+Hosen!;Full-Stack+%26+AI+Developer🧑‍💻;Aspiring+AI+Software+Engineer;Turning+Dreams+into+Dynamic+Websites!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">💼 Full-Stack Developer &nbsp;|&nbsp; Aspiring AI Engineer</h3>
